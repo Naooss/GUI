@@ -1,0 +1,15 @@
+{
+    "info": {
+        "user": "MA"
+    },
+    "paths": {
+        "src": "/home/poirot/Bureau/WORKSPACE/stage/Work/Gluco_IMS/src",
+        "default": "/home/poirot/Bureau/WORKSPACE/stage/Work/Gluco_IMS/data"
+    },
+    "parameters": {
+        "f_ech": 0,
+        "gain1": 0,
+        "gain2": 0,
+        "baudrate": 115200
+    }
+}
